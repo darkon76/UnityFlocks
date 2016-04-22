@@ -17,12 +17,19 @@ At the hierachy are 3 main objects.
 
 **FightingTeams** 5 blue boids vs 5 red boids, need to add lasers, 
 
+Some images.
+http://imgur.com/a/HKTjk
+
 #Note#
 If you activate the FollowTheLeader and FightingTeams,if a squadmate detects an enemy, it will start attacking it.
 If the squadmate can't detect any enemy it will start following you again. 
 
 **Important**
 
-The project isn't optimized.  
+The project isn't optimized. 
+
+Images at 
+
+
 
 
